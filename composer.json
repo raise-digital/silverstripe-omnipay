@@ -6,8 +6,8 @@
     "keywords": ["silverstripe","payment","omnipay"],
     "require": {
         "omnipay/common": "^3",
-        "silverstripe/config": "^1",
-        "silverstripe/framework": "^4"
+        "silverstripe/config": "^2",
+        "silverstripe/framework": "^5"
     },
     "require-dev": {
         "omnipay/dummy": "^3",
